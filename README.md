@@ -1,15 +1,15 @@
 # 💫 About Me:
-[cite_start]🔭 **I’m currently working on:** Designing "**Project Atlas**," a complex vulnerable lab environment featuring an exploit chain including IDOR, Path Traversal, and **Spring Boot RCE** via Custom Class Loading[cite: 23, 32]. [cite_start]I am also modeling advanced adversary TTPs based on the "**Scattered Spider**" (Blacktail) threat actor, focusing on MFA fatigue and Federated Identity manipulation[cite: 25, 36].
+🔭 **I’m currently working on:** Designing "**Project Atlas**," a complex vulnerable lab environment featuring an exploit chain including IDOR, Path Traversal, and **Spring Boot RCE** via Custom Class Loading. I am also modeling advanced adversary TTPs based on the "**Scattered Spider**" (Blacktail) threat actor, focusing on MFA fatigue and Federated Identity manipulation.
 
 👯 **I’m looking to collaborate on:** Open-source offensive security tools, custom malware development for educational purposes, and Red Teaming framework integrations.
 
-[cite_start]🤝 **I’m looking for help with:** Advanced kernel-level exploitation and **BYOVD** (Bring Your Own Vulnerable Driver) techniques to bypass modern EDR/AV systems[cite: 26, 39].
+🤝 **I’m looking for help with:** Advanced kernel-level exploitation and **BYOVD** (Bring Your Own Vulnerable Driver) techniques to bypass modern EDR/AV systems.
 
 🌱 **I’m currently learning:** The intricacies of **analog photography** with my Zenit-E camera and deepening my knowledge of **Bayesian statistics** for anomaly detection.
 
-[cite_start]💬 **Ask me about:** Spring Boot RCE via custom class loading [cite: 23, 32][cite_start], architecting microservices with **Resilience4j**[cite: 17, 44], or the **8088 microprocessor architecture** and its registers.
+💬 **Ask me about:** Spring Boot RCE via custom class loading, architecting microservices with **Resilience4j**, or the **8088 microprocessor architecture** and its registers.
 
-[cite_start]⚡ **Fun fact:** I engineered a custom **Privilege Escalation** vector by exploiting Linux Capabilities (**CAP_SYS_PTRACE**) to inject shellcode into root-level processes using Python[cite: 24, 33].
+⚡ **Fun fact:** I engineered a custom **Privilege Escalation** vector by exploiting Linux Capabilities (**CAP_SYS_PTRACE**) to inject shellcode into root-level processes using Python.
 
 
 ## 🌐 Socials:
