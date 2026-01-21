@@ -11,7 +11,7 @@ I am a Computer Science student at Ankara University with a GPA of 3.81, current
 
 **Software Development Intern | Ulak Haberleşme**
 *July 2025*
-* Contributed to the SD-WAN team by developing a centralized domain management tool.
+* Contributed to the Sofware team by developing a centralized domain management tool.
 * Implemented microservices using Spring Boot and modular frontends with Angular 19.
 
 ## Technical Projects
@@ -31,13 +31,13 @@ I am a Computer Science student at Ankara University with a GPA of 3.81, current
 
 * **Languages:** Python, Java, C/C++, SQL (PostgreSQL/MySQL), Bash.
 * **Security:** TTP Analysis, Nmap, Metasploit, Burp Suite, Wireshark, JSch (SSH Automation).
-* **Frameworks:** Spring Boot, Angular 19, .NET Core, Flask, Resilience4j.
+* **Frameworks:** Spring Boot, Angular 19, .NET Core, Resilience4j.
 * **Infrastructure:** Docker, Docker Compose, Liquibase, Git, Linux (Debian/Ubuntu).
 
 ## Education & Research
 
 * **Bachelor of Computer Science:** Ankara University (2023 - Present).
-* **Current Interests:** Bayesian statistics for anomaly detection and the mechanics of analog photography (Zenit-E).
+* **Current Interests:** Horse riding, scuba diving (SSI), analog photography, and cybersecurity.
 
 ## Social Profiles
 
