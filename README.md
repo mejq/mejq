@@ -29,6 +29,11 @@ I am a Computer Science student at Ankara University with a GPA of 3.81, current
 
 ## Technical Skills
 
+* **Languages:** Python, Java, SQL (PostgreSQL/MySQL), Bash.
+* **Security:** TTP Analysis, Nmap, Metasploit, Burp Suite, Wireshark, JSch (SSH Automation).
+* **Frameworks:** Spring Boot, Angular 19, .NET Core, Resilience4j.
+* **Infrastructure:** Docker, Docker Compose, Liquibase, Git, Linux (Debian/Ubuntu).
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,postgres,mysql,bash,kali,nmap,metasploit,burpsuite,wireshark" />
   <br/>
@@ -37,11 +42,6 @@ I am a Computer Science student at Ankara University with a GPA of 3.81, current
 
 
 
-
-* **Languages:** Python, Java, SQL (PostgreSQL/MySQL), Bash.
-* **Security:** TTP Analysis, Nmap, Metasploit, Burp Suite, Wireshark, JSch (SSH Automation).
-* **Frameworks:** Spring Boot, Angular 19, .NET Core, Resilience4j.
-* **Infrastructure:** Docker, Docker Compose, Liquibase, Git, Linux (Debian/Ubuntu).
 
 ## Education & Research
 
