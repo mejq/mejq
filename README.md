@@ -30,9 +30,9 @@ I am a Computer Science student at Ankara University with a GPA of 3.81, current
 ## Technical Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,postgres,mysql,bash,kali,nmap,metasploit,burpsuite,wireshark&perline=5" />
+  <img src="https://skillicons.dev/icons?i=python,java,postgres,mysql,bash,kali,nmap,metasploit,burpsuite,wireshark" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=spring,angular,dotnet,docker,git,linux,debian,ubuntu&perline=4" />
+  <img src="https://skillicons.dev/icons?i=spring,angular,dotnet,docker,git,linux,debian,ubuntu" />
 </p>
 
 
